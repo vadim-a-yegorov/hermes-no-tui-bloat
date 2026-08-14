@@ -3,6 +3,7 @@
 Strip decorative faces, verbs, emoji, and pet from the Hermes TUI.
 
 The terminal is for work. This plugin removes:
+
 - Busy-face kaomoji (`(���■_■) musing...`) → plain `...` faces, `working` verbs
 - Tool emoji (`���� preparing`, `���� $`) → `get_tool_emoji` returns `""`
 - The pet in the terminal (via `NO_TUI_PET` env + cli.py gate)
@@ -16,6 +17,7 @@ The terminal is for work. This plugin removes:
 # Copy to your Hermes plugins directory
 mkdir -p ~/.hermes/plugins/no-tui-bloat
 cp __init__.py ~/.hermes/plugins/no-tui-bloat/
+cp plugin.yaml ~/.hermes/plugins/no-tui-bloat/
 
 # Enable in ~/.hermes/config.yaml:
 plugins:
