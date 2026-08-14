@@ -21,7 +21,7 @@ plugins:
 
 ## Environment
 
-```sh
-NO_TUI_BLOAT=1
-NO_TUI_PET=1
+```bash
+export NO_TUI_BLOAT=1
+export NO_TUI_PET=1
 ```
