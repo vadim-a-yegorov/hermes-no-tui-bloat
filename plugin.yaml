@@ -1,5 +1,5 @@
-name: no-tui-bloat
+name: tui-distraction-free
 version: "1.0.0"
 description: Strip decorative faces, verbs, emoji, and pet from the Hermes TUI.
-author: Vadim Yegorov
+author: Vadym Yehorov
 entrypoint: __init__.py
