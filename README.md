@@ -1,4 +1,4 @@
-# hermes-no-tui-bloat
+# hermes-tui-distraction-free
 
 The terminal is for work. This plugin removes:
 
@@ -8,7 +8,7 @@ The terminal is for work. This plugin removes:
 ## Install
 
 ```bash
-cd ~/.hermes/plugins/ && git clone https://github.com/vadim-a-yegorov/hermes-no-tui-bloat/
+cd ~/.hermes/plugins/ && git clone https://github.com/vadim-a-yegorov/hermes-tui-distraction-free/
 ```
 
 ## Enable
