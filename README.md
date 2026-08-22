@@ -17,7 +17,7 @@ cd ~/.hermes/plugins/ && git clone https://github.com/vadim-a-yegorov/hermes-tui
 # Enable in ~/.hermes/config.yaml:
 plugins:
   enabled:
-    - no-tui-bloat
+    - tui-distraction-free
 ```
 
 ## Environment
